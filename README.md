@@ -1,4 +1,4 @@
-# Hello! I'm Nathalia Rojas 🍓👋  
+# 👋 Hello! I'm Nathalia Rojas 🍓 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&pause=1000&color=0077FF&center=true&vCenter=true&width=950&lines=Systems+Engineering+Student+at+Universidad+Distrital;Passionate+about+Cybersecurity+and+Technology;Always+learning+and+growing+%F0%9F%8C%B1" alt="Typing SVG" />
