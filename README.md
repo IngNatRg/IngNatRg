@@ -20,8 +20,7 @@ I stand out for my **responsibility, commitment, and alignment with core informa
 - 🤝 Respect  
 - 💙 Empathy  
 - 💯 Honesty  
-- 📜 Adherence to rules  
-- 🎧 Active listening  
+- 📜 Adherence to rules
 
 ---
 
@@ -60,7 +59,6 @@ I stand out for my **responsibility, commitment, and alignment with core informa
 ## ✨ Fun Facts
 - 🍓 I love strawberries with chocolate (obviously!)
 - 🎧 I can't anything without music
-- 🔍 I'm fascinated by hacking challenges and CTFs
 
 ---
 
